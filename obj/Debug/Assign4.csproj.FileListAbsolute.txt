@@ -1,0 +1,10 @@
+F:\dotNET-CSCI504\Assign4\Assign4\bin\Debug\Assign4.exe.config
+F:\dotNET-CSCI504\Assign4\Assign4\bin\Debug\Assign4.exe
+F:\dotNET-CSCI504\Assign4\Assign4\bin\Debug\Assign4.pdb
+F:\dotNET-CSCI504\Assign4\Assign4\obj\Debug\Assign4.csprojResolveAssemblyReference.cache
+F:\dotNET-CSCI504\Assign4\Assign4\obj\Debug\Assign4.Form1.resources
+F:\dotNET-CSCI504\Assign4\Assign4\obj\Debug\Assign4.Properties.Resources.resources
+F:\dotNET-CSCI504\Assign4\Assign4\obj\Debug\Assign4.csproj.GenerateResource.Cache
+F:\dotNET-CSCI504\Assign4\Assign4\obj\Debug\Assign4.csproj.CoreCompileInputs.cache
+F:\dotNET-CSCI504\Assign4\Assign4\obj\Debug\Assign4.exe
+F:\dotNET-CSCI504\Assign4\Assign4\obj\Debug\Assign4.pdb
